@@ -5,6 +5,8 @@
 
 #### [Исходный код проекта](https://github.com/nightcarpenter/ToxicComments/blob/main/toxic_comments.ipynb)
 
+#### [Вернуться к портфолио](https://github.com/nightcarpenter)
+
 ---
 
 #### Цель проекта
